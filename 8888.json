@@ -1,0 +1,9 @@
+{
+	"url": "https://cdn.jsdelivr.net/gh/alfredo1111/hamzab3t.xyz/8888.yaml",
+	"urls": [
+		{
+			"url": "https://cdn.jsdelivr.net/gh/alfredo1111/hamzab3t.xyz/8888.yaml",
+			"name": "XSS payload"
+		}
+	]
+}
